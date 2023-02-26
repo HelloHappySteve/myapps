@@ -4,8 +4,7 @@ st.set_page_config(
     page_title='ClDesk',
     page_icon='🌐',
     layout='wide',
-    initial_sidebar_state='collapsed',
-    menu_items={}
+    initial_sidebar_state='collapsed'
 )
 
 container = st.empty()

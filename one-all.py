@@ -1,7 +1,7 @@
 import time
 import streamlit as st
 st.set_page_config(
-    page_title='ClDesk',
+    page_title='One Is All',
     page_icon='🌐',
     layout='wide',
     initial_sidebar_state='collapsed',
